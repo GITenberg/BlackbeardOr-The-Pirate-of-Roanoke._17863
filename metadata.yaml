@@ -1,0 +1,28 @@
+_repo: BlackbeardOr-The-Pirate-of-Roanoke._17863
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barker, B. (Benjamin)
+    alias: Barker, Benjamin
+    gutenberg_agent_id: '7660'
+    url: http://www.gutenberg.org/2009/agents/7660
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teach, Edward, -1718 -- Fiction'
+- !lcsh 'Pirates -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Roanoke River Valley (Va. and N.C.) -- Fiction'
+title: Blackbeard; Or, The Pirate of Roanoke.
+url: http://www.gutenberg.org/ebooks/17863
